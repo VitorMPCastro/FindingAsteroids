@@ -1,6 +1,6 @@
 # Finding Asteroids
 
-Stack Exchange links (and useful info)
+Stack Exchange useful info:
 
 There are two main datasets available from the PanSTARRS survey which are available from the archive at MAST/STScI. These are the Object Catalog, a (large) list of parameters such as position, brightness, shape etc (full list of catalog fields) and the Image Cutouts service which, well, cuts out sections of the images. (The survey went over the same patch of sky several times in 5 filters so there are deeper stacks available)
 
@@ -9,3 +9,11 @@ If you are looking for moving objects then you will need to use the "warp" singl
 I should also caution you that one of the goals of the PanSTARRS survey, which my institution was a partner in, was to find moving objects. A lot of effort was put into the Moving Object Processing System (MOPS; paper, which I'm on, available (for free) here at IOPscience) and PanSTARRS was one of the two major sources of new Near Earth Objects (NEOs), see purpley bars in this plot at the Center for NEO Studies. I'm not saying there isn't new moving objects in there, we go back and search through the PanSTARRS data for precoveries of newly discovered NEOs that the automatic software missed on a roughly monthly basis, but bear this in mind before launching into a big project.
 
 From: https://astronomy.stackexchange.com/questions/29506/how-does-one-use-the-pan-starrs-data
+In Feb 16 - 2024
+
+PanSTARRS website:
+
+2024.02.02: Search for moving targets in PS1 images and catalogs
+A new Python Jupyter notebook has been written to search PS1 images and catalogs that have observations of a moving solar system target.  In about one minute, the notebook finds all PS1 observations that included a particular target and extracts cutout images and catalog measurements.  See the How to search for moving targets in PS1 images and catalogs page for details. (link)[https://outerspace.stsci.edu/display/PANSTARRS/How+to+search+for+moving+targets+in+PS1+images+and+catalogs]
+
+https://outerspace.stsci.edu/display/PANSTARRS/PS1+News#PS1News-2024.02.02:SearchformovingtargetsinPS1imagesandcatalogs
