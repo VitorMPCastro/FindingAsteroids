@@ -1,5 +1,7 @@
 # Finding Asteroids
 
+Google Docs: https://docs.google.com/document/d/10D2yJlmfxxFpBIk1ulIUN3U_xpiv_9QuN15dcH_HwI4/edit?usp=sharing
+
 Stack Exchange useful info:
 
 There are two main datasets available from the PanSTARRS survey which are available from the archive at MAST/STScI. These are the Object Catalog, a (large) list of parameters such as position, brightness, shape etc (full list of catalog fields) and the Image Cutouts service which, well, cuts out sections of the images. (The survey went over the same patch of sky several times in 5 filters so there are deeper stacks available)
