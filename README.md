@@ -27,3 +27,7 @@ https://arxiv.org/abs/1907.11259
 https://arxiv.org/abs/2102.09892
 
 https://arxiv.org/abs/2206.12478
+
+Deep Learning and applying ML to the dataset:
+https://www.researchgate.net/publication/274321101_Machine_learning_for_transient_discovery_in_Pan-STARRS1_difference_imaging
+
