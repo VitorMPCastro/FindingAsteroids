@@ -19,3 +19,11 @@ PanSTARRS website:
 A new Python Jupyter notebook has been written to search PS1 images and catalogs that have observations of a moving solar system target.  In about one minute, the notebook finds all PS1 observations that included a particular target and extracts cutout images and catalog measurements.  See the How to search for moving targets in PS1 images and catalogs page for details. [link](https://outerspace.stsci.edu/display/PANSTARRS/How+to+search+for+moving+targets+in+PS1+images+and+catalogs)
 
 https://outerspace.stsci.edu/display/PANSTARRS/PS1+News#PS1News-2024.02.02:SearchformovingtargetsinPS1imagesandcatalogs
+
+Real-Bogus:
+
+https://arxiv.org/abs/1907.11259
+
+https://arxiv.org/abs/2102.09892
+
+https://arxiv.org/abs/2206.12478
