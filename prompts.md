@@ -1,7 +1,8 @@
-Prompt1 by copilot 4.0
+Prompt1 by copilot 4.0 -- 18/04/24
 
 Prompt: Faça uma revisão de literatura sobre um estudo de caso sobre a viabilidade da aplicação de machine learning ao dados do projeto Pan-STARRS para indentificação, categorização e rastreamento de corpos no sistema solar.
 
+Resposta:
 Introdução ao Machine Learning na Prática
 Antes de mergulharmos nos detalhes, vamos entender alguns conceitos fundamentais relacionados ao Machine Learning:
 
@@ -43,3 +44,37 @@ O melhor resultado foi obtido com o classificador de floresta aleatória.
 Esse estudo demonstra como o Machine Learning pode ser aplicado para automatizar a identificação de eventos astronômicos em grandes conjuntos de dados, como os gerados pelo Pan-STARRS1.
 
 Lembre-se de adaptar essas informações conforme necessário para sua revisão de literatura. Se precisar de mais detalhes ou tiver outras perguntas, estou à disposição! 😊
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Prompt2 by ChatGPT 3.5 -- 18/04
+
+Prompt: Faça uma revisão de literatura sobre um estudo de caso sobre a viabilidade da aplicação de machine learning ao dados do projeto Pan-STARRS para indentificação, categorização e rastreamento de corpos no sistema solar.
+
+Resposta: A aplicação de machine learning para a identificação, categorização e rastreamento de corpos no sistema solar é uma área de pesquisa em rápida expansão, especialmente com a disponibilidade de conjuntos de dados como os fornecidos pelo projeto Pan-STARRS (Panoramic Survey Telescope and Rapid Response System). Este projeto fornece uma quantidade significativa de dados astronômicos, incluindo informações sobre asteroides, cometas, planetas menores e outros corpos celestes.
+
+Um estudo de caso sobre a viabilidade da aplicação de machine learning aos dados do projeto Pan-STARRS pode abordar várias questões importantes:
+
+1. **Identificação de Objetos:**
+   - Como o machine learning pode ser utilizado para identificar objetos específicos, como asteroides e cometas, nos dados do Pan-STARRS?
+   - Quais características dos objetos podem ser utilizadas como entrada para os algoritmos de machine learning?
+
+2. **Categorização de Objetos:**
+   - Como os objetos identificados podem ser categorizados em diferentes classes, como asteroides próximos à Terra (NEOs), asteroides do cinturão principal, cometas, etc.?
+   - Quais técnicas de aprendizado supervisionado ou não supervisionado podem ser aplicadas para essa categorização?
+
+3. **Rastreamento de Objetos:**
+   - Como os dados do Pan-STARRS ao longo do tempo podem ser utilizados para rastrear a posição e a trajetória dos objetos no sistema solar?
+   - Quais algoritmos de previsão podem ser aplicados para prever a posição futura dos objetos?
+
+4. **Validação e Avaliação:**
+   - Como a precisão das técnicas de machine learning aplicadas pode ser avaliada?
+   - Quais métricas são relevantes para medir a eficácia da identificação, categorização e rastreamento de objetos?
+
+Estudos anteriores podem oferecer insights valiosos sobre abordagens e técnicas relevantes para esse tipo de problema. Por exemplo:
+
+- Pesquisas anteriores sobre a detecção de asteroides e cometas em imagens astronômicas, incluindo o uso de redes neurais convolucionais (CNNs) e algoritmos de detecção de objetos.
+- Estudos sobre classificação de corpos celestes com base em suas características espectrais, utilizando técnicas como análise de componentes principais (PCA) ou aprendizado de máquina baseado em características.
+- Pesquisas sobre previsão de órbitas de objetos do sistema solar, incluindo métodos como modelos de propagação orbital e redes neurais recorrentes (RNNs).
+
+Ao revisar a literatura, seria importante identificar lacunas de conhecimento e oportunidades para contribuições originais. Além disso, considerações práticas, como a escalabilidade das técnicas propostas para lidar com grandes volumes de dados do Pan-STARRS, também devem ser abordadas.
