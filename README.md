@@ -1,6 +1,7 @@
 # Finding Asteroids
 
 Google Docs: https://docs.google.com/document/d/10D2yJlmfxxFpBIk1ulIUN3U_xpiv_9QuN15dcH_HwI4/edit?usp=sharing
+Planejamento: https://docs.google.com/document/d/1Ma99utzA0t9uS3yH5-ZCBPoU08MLjO4f_agvJElcsTE/edit
 
 Stack Exchange useful info:
 
